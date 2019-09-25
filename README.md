@@ -1,5 +1,5 @@
-# flareon6_NES_loader
-iNES loader for level 8 from [Flare-on 6 challenge](https://www.fireeye.com/blog/threat-research/2019/07/announcing-the-sixth-annual-flare-on-challenge.html)
+# flareon6_NES_ghidra_loader
+iNES [Ghidra](https://ghidra-sre.org/) loader for level 8 from [Flare-on 6 challenge](https://www.fireeye.com/blog/threat-research/2019/07/announcing-the-sixth-annual-flare-on-challenge.html)
 
 ## Insatllation
 Just copy the zip in the `dist` directory to `<Ghidra_ROOT_DIR>/Extensions/Ghidra/` folder.  
