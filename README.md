@@ -6,7 +6,7 @@ iNES [Ghidra](https://ghidra-sre.org/) loader for level 8 from [Flare-on 6 chall
 <img width="950" alt="ghidra2" src="https://user-images.githubusercontent.com/4478350/65594774-00b6a800-dfc6-11e9-8127-19f1a857f000.PNG">
 
 
-## Insatllation
+## Installation
 Just copy the zip in the `dist` directory to `<Ghidra_ROOT_DIR>/Extensions/Ghidra/` folder.  
 Check out the instructions in Ghidra's [official website](https://ghidra-sre.org/InstallationGuide.html#Extensions) for more details.  
 
